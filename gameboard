@@ -5,7 +5,7 @@
 jhaCall Center™ Monopoly</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-body {background-color:#ff8040;background-image:url(monopoly.PNG);background-repeat:no-repeat;background-position:center center;background-attachment:scroll;}
+body {background-color:#ff8040;background-image:url(jhaCallCenterMonopoly/Monopoly.PNG);background-repeat:no-repeat;background-position:center center;background-attachment:scroll;}
 h5{text-align:center;font-family:Cursive;font-variant:small-caps;color:#1e0b79;background-color:#ffffff;}
 p {font-family:Georgia, serif;font-size:14px;font-style:normal;font-weight:normal;color:#000000;background-color:#ffffff;}
 </style>
