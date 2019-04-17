@@ -1,0 +1,6 @@
+echo "# jhaCallCenterMonopoly" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/dfajardo96/jhaCallCenterMonopoly.git
+git push -u origin master
