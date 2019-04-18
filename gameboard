@@ -1,17 +1,7 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>
-jhaCall Center™ Monopoly</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-body {background-color:#ff8040;background-image:url(jhaCallCenterMonopoly/Monopoly.PNG);background-repeat:no-repeat;background-position:center center;background-attachment:scroll;}
-h5{text-align:center;font-family:Cursive;font-variant:small-caps;color:#1e0b79;background-color:#ffffff;}
-p {font-family:Georgia, serif;font-size:14px;font-style:normal;font-weight:normal;color:#000000;background-color:#ffffff;}
-</style>
-</head>
-<body>
-<h5>jhaCall Center™ Monopoly</h5>
-<p></p>
-</body>
-</html>
+<!doctype html>
+<head
+<meta charset="utf-8">
+<title>jhaCallCenter Monopoly</title>
+<meta content="width=devise-width, inital-scale=1" name="viewport">
+<link href="Monopoly.PNG" rel="stylesheet" href=@https://fonts.googleapis.com/css?family=Merriweater : 300,300italic,400,400italic,900,900italic,%7CPermanent+Marker:regular">
+<script type="text/javascript">
